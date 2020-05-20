@@ -1,0 +1,9 @@
+*~
+README.md~
+node_modules
+.*
+test*
+!.gitignore
+!.gitmodules
+\#*\#
+*tar.gz
